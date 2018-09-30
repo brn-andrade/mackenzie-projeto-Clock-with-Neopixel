@@ -1,4 +1,4 @@
-# [Objetos Inteligentes Conectados] 5º sem. 2018
+# Objetos Inteligentes Conectados 2º sem. 2018
 
 ## Turma 05J11
 ## Projeto: "Clock with Neopixel Ring Animation"
@@ -10,7 +10,7 @@
 
 ## Descrição resumida do projeto
 
-Relogio feito em arduino com animações feita com led RGB
+Relogio feito em arduino nano v3 com animações feita com led RGB Neopixel 16 leds
 
 _______________________________________
 Obs:
