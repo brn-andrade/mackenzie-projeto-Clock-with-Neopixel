@@ -1,17 +1,16 @@
-# [NOME DA DISCIPLINA] X sem. 20XX
+# [Objetos Inteligentes Conectados] 5º sem. 2018
 
-## Turma XXX
-## Projeto: "nome do projeto"
+## Turma 05J11
+## Projeto: "Clock with Neopixel Ring Animation"
 ## Integrantes do grupo:
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
+* Bruno de Andrade Lima     TIA:  41528530
+* Jonatas Costa Nascimento  TIA:  41530241
+* Matheus Oliveira de Souza TIA:  41526333
 
 ## Descrição resumida do projeto
 
-Descreva resumidamente o projeto aqui.
+Relogio feito em arduino com animações feita com led RGB
 
 _______________________________________
 Obs:
